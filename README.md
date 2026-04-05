@@ -1,37 +1,111 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚍 SafeRoute – Real‑Time School Bus Tracking
+Peace of mind for parents. Efficiency for schools. Safety for students.
 
-## Getting Started
+A modern landing page showcasing SafeRoute, a platform that allows parents to track school buses in real time, receive instant notifications, and stay informed about their child’s transportation status.
 
-First, run the development server:
+🏷️ Badges
+https://img.shields.io/badge/build-passing-brightgreen  
+https://img.shields.io/badge/license-MIT-blue  
+https://img.shields.io/badge/tech-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20React-orange
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌐 Live Demo
+Website: Add your deployed link here (Vercel, Netlify, GitHub Pages, etc.)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📸 Overview
+SafeRoute helps parents stay connected with their child’s school transportation.
+The landing page introduces the platform’s mission, features, and benefits for both parents and school administrators.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✨ Landing Page Features
+Hero Section – Clear messaging about real‑time tracking and safety.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Live Tracking Preview – Mockups or screenshots showing the bus map interface.
 
-## Learn More
+Instant Notifications – Highlights SMS/app alerts for arrivals, delays, and route changes.
 
-To learn more about Next.js, take a look at the following resources:
+School Dashboard Preview – Shows how schools can monitor fleets and optimize routes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Why SafeRoute? – Safety, transparency, and operational efficiency.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Call‑to‑Action Buttons – “Download App”, “Request Demo”, or “Learn More”.
 
-## Deploy on Vercel
+Responsive Design – Optimized for mobile, tablet, and desktop.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Smooth Animations – Subtle transitions for a polished experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# saferoute_landing_page
+🚌 What the SafeRoute App Does
+SafeRoute is designed to improve school transportation safety and communication:
+
+Real‑time GPS tracking of school buses
+
+Instant notifications for arrivals, delays, and emergencies
+
+Parent dashboard showing bus location, ETA, and route
+
+School admin dashboard for fleet management and route optimization
+
+Secure student check‑in/out system
+
+Historical route logs for compliance and reporting
+
+Multi‑child support for parents with multiple students
+
+🛠️ Tech Stack
+Update based on your actual implementation:
+
+Frontend: HTML, CSS, JavaScript, React, Next.js
+
+Styling: TailwindCSS
+
+Animations: Framer Motion / GSAP
+
+Deployment: Vercel / Netlify
+
+Backend (if applicable): Firebase / Node.js / Supabase
+
+📂 Project Structure
+Code
+saferoute_landing_page/
+│── public/          # Images, icons, assets
+│── src/             # Components, sections, styles
+│── pages/           # Next.js pages (if applicable)
+│── index.html       # Main landing page (if not using React)
+│── README.md        # Documentation
+│── package.json     # Dependencies
+🤝 Contributing
+We welcome contributions to improve the landing page!
+
+1. Fork the Repository
+2. Clone Your Fork
+bash
+git clone https://github.com/YOUR-USERNAME/saferoute_landing_page.git
+3. Create a Feature Branch
+bash
+git checkout -b feature/your-feature-name
+4. Make Your Changes
+5. Commit & Push
+bash
+git commit -m "Add: your feature description"
+git push origin feature/your-feature-name
+6. Open a Pull Request
+Describe your changes clearly.
+
+🧩 Ideas for Future Enhancements
+Add animated bus route demo
+
+Add testimonials from parents/schools
+
+Add FAQ section
+
+Add dark mode
+
+Add multi‑language support
+
+Improve accessibility (ARIA, contrast, keyboard navigation)
+
+📄 License
+This project is licensed under the MIT License.
+
+📬 Contact
+For questions or collaboration:
+GitHub: https://github.com/Kyl67899  
+Email: Add your preferred email

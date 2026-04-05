@@ -9,7 +9,7 @@
     "lint": "eslint",
     "updates": "npx npm-check-updates -u && npm install",
     "format": "prettier --write .",
-    "audit": "npx npm-audit-resolver --update-lockfile",
+    "audit": "npm audit fix",
     "clean": "rm -rf node_modules .next dist && npm install"
   },
   "dependencies": {

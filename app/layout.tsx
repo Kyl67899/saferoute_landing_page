@@ -1,10 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Analytics } from '@vercel/analytics/next'
-import { Geist } from "next/font/google";
-import { cn } from "@/lib/utils";
-
-const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
   title: "SafeRoute - Think Uber Ride Sharing but for Schools and Universities",
@@ -33,7 +29,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={cn("", "font-sans", geist.variable)}
+      className=""
     >
       <body className="min-h-full flex flex-col">
         {children}

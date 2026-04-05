@@ -10,7 +10,7 @@ import {
   Radio
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { cn } from "@/lib/util"
+import { cn } from "@/lib/utils"
 
 const stops = [
   { name: "Sector 45 Depot", time: "7:00 AM", status: "completed" },

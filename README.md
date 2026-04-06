@@ -67,14 +67,17 @@ SafeRoute is designed to improve school transportation safety and communication:
 ---
 
 ## 📂 Project Structure
+```bash
 saferoute_landing_page/
 │── public/ # Images, icons, assets
+
 │── src/ # Components, sections, styles
 │── pages/ # Next.js pages (if applicable)
+
 │── index.html # Main landing page (if not using React)
 │── README.md # Documentation
 │── package.json # Dependencies
-
+```
 
 ---
 

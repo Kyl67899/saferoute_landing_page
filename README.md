@@ -8,15 +8,13 @@ SafeRoute is a modern platform that allows parents to track school buses in real
 
 ## 🏷️ Badges
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)  
-![License](https://img.shields.io/badge/license-MIT-blue)  
-![Tech](https://img.shields.io/badge/tech-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20React-orange)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)  ![License](https://img.shields.io/badge/license-MIT-blue)  ![Tech](https://img.shields.io/badge/tech-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20React-orange)
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 Website: _Add your deployed link here (Vercel, Netlify, GitHub Pages, etc.)_
+🔗 Website: https://saferoute-landing-page.vercel.app
 
 ---
 

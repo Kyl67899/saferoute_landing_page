@@ -138,7 +138,7 @@ export function Footer() {
             © {new Date().getFullYear()} SafeRoute. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Built by <Link href="kylepprofile.dev" className="text-primary hover:underline">Kyle P</Link>
+            Built by <Link href="https://kylepprofile.dev" className="text-primary hover:underline">Kyle P</Link>
           </p>
           <p className="text-sm text-muted-foreground">
             Made with ❤️ in India

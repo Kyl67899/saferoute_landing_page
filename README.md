@@ -144,5 +144,4 @@ This project is licensed under the MIT License.
 📬 Contact
 GitHub: @Kyl67899
 
-Email: discord: sedev26
-
+Join the [Discord](https://discord.gg/ZwQXnHWA) server.
